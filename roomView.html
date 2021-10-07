@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Room View</title>
+      <script src="jquery3.6.0.js"></script>
+      <script src="roomviewScript.js"></script>
+      <link rel="stylesheet" href="style.css" />
+      <script
+         type="module"
+         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+         ></script>
+      <script
+         nomodule
+         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+         ></script>
+   </head>
+   <body>
+      <div class="main">
+      <div class="header">
+         <span id="logo"><img src="logo.png" alt="" /></span>
+         <span class="contact"
+            >
+            Care Center
+            <p id="phone">
+               <ion-icon name="call"></ion-icon>
+            </p>
+         </span>
+      </div>
+      <div class="mainbody">
+         <div class="nav">
+            <div class="systemname">Sakura Hospital</div>
+            <ul class="menu">
+               <a href="./index.html">
+                  <li >
+                     <ion-icon name="apps"></ion-icon>
+                     Dashboard
+                  </li>
+               </a>
+               <a href="./doctorlist.html">
+                  <li>
+                     <ion-icon name="git-network"></ion-icon>
+                     Doctor List
+                  </li>
+               </a>
+               <li class="active">
+                  <ion-icon name="bed"></ion-icon>
+                  Room View
+               </li>
+               <li>
+                  <ion-icon name="newspaper"></ion-icon>
+                  News
+               </li>
+            </ul>
+            <hr>
+            <ul class="menu">
+               <li>
+                  <ion-icon name="calendar"></ion-icon>
+                  Appointment Form
+               </li>
+               <li>
+                  <ion-icon name="call"></ion-icon>
+                  Contact
+               </li>
+            </ul>
+         </div>
+         <div class="body">
+            <p class="dashboard">Room View</p>
+            <div class="rooms" id="rooms">
+              
+            </div>
+            <span class="block activeRoom"> </span> Active
+            <span class="block lock">  </span> Lock
+            <span class="block avaliable"> </span> Avaliable
+         </div>
+      </div>
+   </body>
+</html>

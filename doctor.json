@@ -1,0 +1,39 @@
+{
+    "list": [{
+            "img": "logo.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        },
+        {
+            "img": "profile.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        },
+        {
+            "img": "profile.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        },
+        {
+            "img": "profile.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        },
+        {
+            "img": "profile.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        },
+        {
+            "img": "profile.png",
+            "name": "Prof. Shizuei Okamu",
+            "specialize": "Specialist in Skin",
+            "dutyTime": "Mon 09:00 PM - 11:00 PM"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "rooms" :[
+        {
+            "name" : "101",
+            "status" :0
+        },
+        {
+            "name" : "102",
+            "status" :0
+        },
+        {
+            "name" : "103",
+            "status" :1
+        },
+        {
+            "name" : "104",
+            "status" :2
+        },
+        {
+            "name" : "201",
+            "status" :1
+        },
+        {
+            "name" : "202",
+            "status" :0
+        },
+        {
+            "name" : "203",
+            "status" :2
+        },
+        {
+            "name" : "204",
+            "status" :2
+        },
+        {
+            "name" : "301",
+            "status" :1
+        },
+        {
+            "name" : "302",
+            "status" :0
+        },
+        {
+            "name" : "303",
+            "status" :2
+        },
+        {
+            "name" : "304",
+            "status" :1
+        },
+        {
+            "name" : "VIP 1",
+            "status" :2
+        },
+        {
+            "name" : "VIP 2",
+            "status" :0
+        },
+        {
+            "name" : "VIP 3",
+            "status" :1
+        }
+    ]
+}
